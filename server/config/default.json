@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://localhost:27017/DevConnector?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false",
+    "jwtToken":"somesecretvalue"
+}
